@@ -1,0 +1,63 @@
+{
+  "v": 1,
+  "repository": "clunkyard/house-median",
+  "source": {
+    "botId": "de7e11db-524b-4fdd-a48f-70c95e5dec7f",
+    "revisionId": "ed5084f4-52e3-424f-9961-b97ba780984c",
+    "manifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65"
+  },
+  "visibleManifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65",
+  "language": "r",
+  "sourceFiles": [
+    {
+      "path": "bot.json",
+      "mode": 420,
+      "size": 468,
+      "sha256": "8f940bc23119316752cc7b0ba03c005770b1a04aee21a26e331333691766ac1e"
+    },
+    {
+      "path": "median.R",
+      "mode": 384,
+      "size": 4746,
+      "sha256": "f8963981dd100344bb296b63c69afc6f518b3213ac7b7286f58f54a6b5aa38a6"
+    }
+  ],
+  "directories": [],
+  "managed": [
+    {
+      "path": ".clunkyard-source.json",
+      "sha256": "7b708a83e67abeee72af3c1a3d755a33ac4ca24a144a90bbe98332bdc52a6160",
+      "mode": 420
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "e8b41e5528b2d3a8ae4c5dabfcd32ef50c05fff41de096c3701059b5c68a80db",
+      "mode": 420
+    },
+    {
+      "path": "bot.json",
+      "sha256": "74fc235e34ef921d58be06c55f0f402cd71fb1160d68486f25dcad5c3b55e188",
+      "mode": 420
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "652cbd0ba5e21c5b7ee7a52b539cc9087b38b1bfc3ae0baacc6828c8dfdf2e95",
+      "mode": 420
+    },
+    {
+      "path": "Makefile",
+      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "mode": 420
+    },
+    {
+      "path": "median.R",
+      "sha256": "f8963981dd100344bb296b63c69afc6f518b3213ac7b7286f58f54a6b5aa38a6",
+      "mode": 384
+    },
+    {
+      "path": "README.md",
+      "sha256": "31f29d4dff682acd6f102777b5d20a0bce424d039b00261d8ffcada6504a7e67",
+      "mode": 420
+    }
+  ]
+}

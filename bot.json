@@ -1,0 +1,27 @@
+{
+  "name": "Median",
+  "language": "r",
+  "protocol": 2,
+  "entry": "median.R",
+  "strategy": "robust range-band controller that smooths noisy contacts with a rolling median",
+  "supportedModes": [
+    "2d",
+    "3d"
+  ],
+  "resourceModes": [
+    "open",
+    "trusted"
+  ],
+  "supportedRulesets": [
+    "classic",
+    "inertial-2d",
+    "gravity-flat",
+    "gravity-hills",
+    "zero-g"
+  ],
+  "command": [
+    "Rscript",
+    "--vanilla",
+    "bots/r/median.R"
+  ]
+}
