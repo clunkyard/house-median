@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-median",
   "source": {
     "botId": "de7e11db-524b-4fdd-a48f-70c95e5dec7f",
-    "revisionId": "ed5084f4-52e3-424f-9961-b97ba780984c",
+    "revisionId": "3ababd71-4aef-4f23-9aec-cc6f2a38e94e",
     "manifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65"
   },
   "visibleManifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "7b708a83e67abeee72af3c1a3d755a33ac4ca24a144a90bbe98332bdc52a6160",
+      "sha256": "a4ce450a51887e3dd689c437d8c9c5c316970c697c4b534442deb9a739ec7d9c",
       "mode": 420
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "path": "Makefile",
-      "sha256": "b41bef136a1fec767be62431121a98d96259ccd8415fc3d71665b22efcd8f79d",
+      "sha256": "56113b1e7b8c900f9222ffed6cfba3382ff4835729e887cab6e75fbf991b4157",
       "mode": 420
     },
     {
@@ -56,7 +56,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "31f29d4dff682acd6f102777b5d20a0bce424d039b00261d8ffcada6504a7e67",
+      "sha256": "e4eadb5daf255a29c671390872ffe8ec48558bd66ad99a5b79aab95846c447eb",
       "mode": 420
     }
   ]
