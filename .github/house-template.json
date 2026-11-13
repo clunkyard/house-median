@@ -3,7 +3,7 @@
   "repository": "clunkyard/house-median",
   "source": {
     "botId": "de7e11db-524b-4fdd-a48f-70c95e5dec7f",
-    "revisionId": "3ababd71-4aef-4f23-9aec-cc6f2a38e94e",
+    "revisionId": "12a9658b-5eaf-4fe9-9919-77106cd8e3a3",
     "manifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65"
   },
   "visibleManifestHash": "2ea8f843f60127107528c674d19c94b9202f01c84e60654014c7a1569e6ffd65",
@@ -26,7 +26,7 @@
   "managed": [
     {
       "path": ".clunkyard-source.json",
-      "sha256": "a4ce450a51887e3dd689c437d8c9c5c316970c697c4b534442deb9a739ec7d9c",
+      "sha256": "a3c42c1128a7a5df54d33d8905d8aa28c037a4d33a98541f9bf3a11dd980e1b8",
       "mode": 420
     },
     {
