@@ -1,6 +1,6 @@
 {
   "name": "Median",
-  "language": "r",
+  "language": "R",
   "protocol": 2,
   "entry": "median.R",
   "strategy": "robust range-band controller that smooths noisy contacts with a rolling median",
